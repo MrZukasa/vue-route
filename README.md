@@ -1,19 +1,6 @@
-# vue-route
+# Vue Route ⛳
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+In quest nuovo repo, provo il routing di vue:
+- Router Links
+- Struttura delle cartelle
+- Route Parameters (TBD)
