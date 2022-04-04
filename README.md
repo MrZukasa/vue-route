@@ -3,4 +3,4 @@
 In quest nuovo repo, provo il routing di vue:
 - Router Links
 - Struttura delle cartelle
-- Route Parameters (TBD)
+- Route Parameters (Da vedere!)
