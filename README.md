@@ -7,3 +7,7 @@ In quest nuovo repo, provo il routing di vue:
 - Dynamic Links
 - Redirectes & 404's
 - Programmatic Navigation
+
+>Fetching Data
+- Install the Json Server 'npm install -g json-server'
+- Fetching Data
